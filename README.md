@@ -34,5 +34,5 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ### Imagens
 
-![Screenshot](/images/home.png)
+![Screenshot](/prints/home.png)
 
